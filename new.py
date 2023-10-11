@@ -1,2 +1,3 @@
 def hello():
-    preint("cheing reminders")
+    print("cheing reminders")
+    return 1
